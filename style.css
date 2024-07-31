@@ -1,0 +1,23 @@
+.navbar {
+   border-bottom: 1px solid black;
+}
+
+.btn, .form-control {
+    border-color: black;
+}
+
+.btn {
+    color: black;
+}
+.nav-link {
+    color: black;
+}
+
+#header-hero {
+padding-top: 50px;
+width: 500px;
+height: 400px;
+text-align: center;
+
+}
+
